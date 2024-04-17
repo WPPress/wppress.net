@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Section from "../components/Section";
 export const metadata={
-  title:"Terms &amp; Conditions"
+  title:"Terms & Conditions"
 }
 export default function TermsConditions() {
   return (
